@@ -7,7 +7,7 @@ public class principal {
 		holaMundo("Completo");
 		
 		for(int i = 0; i < 10; i++){
-			printMessage("Hola Mundo " + i);	
+			printMessage("Hola Mundo " + i+2);	
 		}
 	}
 
